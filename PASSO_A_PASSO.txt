@@ -1,0 +1,28 @@
+COMERCIAL ADORADA — SUBIR NO GITHUB E VERCEL
+
+1) DESCOMPACTE O ZIP.
+2) NÃO envie o ZIP fechado para o GitHub. Envie os arquivos que estão dentro da pasta.
+3) Crie um repositório no GitHub: comercial-adorada-pdv.
+4) Abra o repositório > Add file > Upload files.
+5) Arraste:
+   - index.html
+   - vercel.json
+   - .gitignore
+   - .env.example
+   - README.md
+   - PASSO_A_PASSO.txt
+   - pasta api
+6) Faça o commit.
+7) Entre no Vercel.
+8) New Project / Add New Project.
+9) Importe o repositório comercial-adorada-pdv do GitHub.
+10) Framework Preset: Other.
+11) Não precisa de build para este HTML puro.
+12) Clique em Deploy.
+13) Abra a URL criada pelo Vercel.
+14) Teste também: SUA-URL/api/health
+
+IMPORTANTE:
+- Nesta etapa, o site estará publicado, mas o banco online AINDA NÃO estará conectado.
+- Não ative a sincronização remota do PDV ainda.
+- Se você já tiver dados reais no HTML local, faça backup antes de começar.
